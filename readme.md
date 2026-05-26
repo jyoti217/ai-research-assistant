@@ -42,3 +42,14 @@ in terminal add --
 export OPENAI_API_KEY="your-api-key"
 
 
+🧠 Tech Stack
+LangChain
+OpenAI API
+DuckDuckGo Search (ddgs)
+Python
+
+📚 Learnings
+This project demonstrates:
+Agent vs pipeline architectures
+Tool usage in LLM workflows
+Real-world AI system design basics
